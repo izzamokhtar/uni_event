@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040352413300",
+    "project_id": "unievent2-3e205",
+    "storage_bucket": "unievent2-3e205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040352413300:android:78ea1f1215e1079b9bb321",
+        "android_client_info": {
+          "package_name": "com.example.uni_event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcUpynPwoCbZk2RfmLvgB6H4JTMNHY-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
